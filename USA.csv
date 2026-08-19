@@ -1,0 +1,25 @@
+Region Code,Region Name,Country Code,Country Name,Year,Sex,Age group code,Age Group,Number,Percentage of cause-specific deaths out of total deaths,Age-standardized death rate per 100 000 standard population,Death rate per 100 000 population
+NAC,North America and the Caribbean,USA,United States of America,2014,All,Age_all,[All],807760,30.75519586,130.9933279,253.4758069
+NAC,North America and the Caribbean,USA,United States of America,2014,Male,Age_all,[All],408739,30.77300094,162.7341864,259.382011
+NAC,North America and the Caribbean,USA,United States of America,2014,Female,Age_all,[All],399021,30.73697849,103.4880204,247.698264
+NAC,North America and the Caribbean,USA,United States of America,2020,All,Age_all,[All],912681,26.97263877,132.9780426,275.7322327
+NAC,North America and the Caribbean,USA,United States of America,2020,Male,Age_all,[All],478601,27.04137672,166.2777324,292.2111495
+NAC,North America and the Caribbean,USA,United States of America,2020,Female,Age_all,[All],434080,26.89725469,103.4696727,259.5914039
+NAC,North America and the Caribbean,USA,United States of America,2019,All,Age_all,[All],859290,30.09943121,126.210439,261.1308455
+NAC,North America and the Caribbean,USA,United States of America,2019,Male,Age_all,[All],445685,30.24006275,157.0197744,273.7180681
+NAC,North America and the Caribbean,USA,United States of America,2019,Female,Age_all,[All],413605,29.94934885,99.04909763,248.8019962
+NAC,North America and the Caribbean,USA,United States of America,2018,All,Age_all,[All],868640,30.59447979,130.0983001,265.5609657
+NAC,North America and the Caribbean,USA,United States of America,2018,Male,Age_all,[All],448484,30.75032791,161.6797409,277.103371
+NAC,North America and the Caribbean,USA,United States of America,2018,Female,Age_all,[All],420156,30.4298577,102.2376837,254.256181
+NAC,North America and the Caribbean,USA,United States of America,2017,All,Age_all,[All],859098,30.53481727,131.0378848,264.2689281
+NAC,North America and the Caribbean,USA,United States of America,2017,Male,Age_all,[All],440448,30.60556135,162.4280904,273.8407223
+NAC,North America and the Caribbean,USA,United States of America,2017,Female,Age_all,[All],418650,30.46074191,103.4852203,254.8954431
+NAC,North America and the Caribbean,USA,United States of America,2016,All,Age_all,[All],840656,30.63338299,131.0728455,260.2521278
+NAC,North America and the Caribbean,USA,United States of America,2016,Male,Age_all,[All],428424,30.59664398,162.3036423,268.1030931
+NAC,North America and the Caribbean,USA,United States of America,2016,Female,Age_all,[All],412232,30.67165867,103.7197789,252.5656506
+NAC,North America and the Caribbean,USA,United States of America,2015,All,Age_all,[All],836526,30.83819024,132.9225697,260.69883
+NAC,North America and the Caribbean,USA,United States of America,2015,Male,Age_all,[All],422345,30.75169433,164.3177336,266.1075899
+NAC,North America and the Caribbean,USA,United States of America,2015,Female,Age_all,[All],414181,30.92689359,105.6785243,255.4052713
+NAC,North America and the Caribbean,USA,United States of America,2021,All,Age_all,[All],931547,26.8904412,134.2454226,279.8152068
+NAC,North America and the Caribbean,USA,United States of America,2021,Male,Age_all,[All],491835,26.75767692,167.6513042,298.5714192
+NAC,North America and the Caribbean,USA,United States of America,2021,Female,Age_all,[All],439712,27.04051293,104.3666039,261.4444326
